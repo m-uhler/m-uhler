@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @m-uhler
+- 👀 I’m interested in 
+    - frontend development
+    - ux/ui design
+    - data vizualization
+    - geoinformation
+- 🌱 I’m currently learning SAPUI5 and Angular
+- 💞️ I’m looking to collaborate on geoinformation projects
+- 📫 You reach me on [LinkedIn](https://www.linkedin.com/in/mauh/)
